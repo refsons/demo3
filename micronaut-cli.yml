@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, awaitility, config-kubernetes, gcp-pubsub, gcp-secrets-manager, http-client, http-session, java, java-application, jib, junit, kubernetes, kubernetes-client, logback, management, maven, micrometer, micrometer-stackdriver, netty-server, openapi, properties, readme, security-annotations, security-jwt, serialization-jackson, shade, swagger-ui]
